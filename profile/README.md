@@ -52,5 +52,4 @@ Quixotic AI is the evolution/realization of **[llama4j](https://llama4j.com)** a
 
 ---
 
-*Built in Switzerland. Accele
-rating (on) the JVM.*
+*Built in Switzerland. Accelerating (on) the JVM.*
