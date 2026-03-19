@@ -4,15 +4,13 @@
 
 **AI sovereignty for the world's most trusted runtime.**
 
+
+The JVM powers global finance, big data platforms, and mission-critical enterprise infrastructure.  
+It deserves an AI stack built to the same standard. 
+
+We're building **Jota** to be the JVM's missing AI substrate: building blocks that let Java run AI at native-speed without sacrificing the portability and reliability the platform is famous for.
+
 </div>
-
-The JVM runs global finance, telecommunications, and critical infrastructure. It deserves an AI stack built to the same standard. We're building **Jota**, the tensor engine that brings native-speed inference to Java without sacrificing the portability and reliability the platform is famous for.
-
----
-
-### 🧬 Jota Tensor Engine
-
-At the heart of Quixotic is **Jota** (JVM Open Tensor Accelerator), a multi-backend tensor engine designed from first principles for the JVM.
 
 ---
 
