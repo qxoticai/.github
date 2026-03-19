@@ -29,6 +29,11 @@ At the heart of Quixotic is **Jota** (JVM Open Tensor Accelerator), a multi-back
 
 **Jota** provides the computational foundation, abstracts hardware complexity behind a unified Tensor API. Write once, accelerate everywhere, from embedded devices to data center GPUs, without leaving the safety of the JVM.
 
+First-class support for **GraalVM's Native Image**. On JVM, Jota's host backend defaults to Panama,
+on Native Image it uses the C backend instead. Except for Panama, all backends are supported
+out-of-the-box on Native Image with minimal footprint overhead e.g. a simple Mandelbrot demo with ALL backends
+included is just ~22MB. 
+
 ---
 
 Quixotic AI is the evolution/realization of **[llama4j](https://llama4j.com)** a complete set of standalone JVM components for AI.
